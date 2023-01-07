@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -19,7 +19,7 @@ global.ownername = "SalehKirz" //ganti nama lu
 global.developer = "SalehKirz" //nama lu
 global.ytname = "YT: SalehDev" //ur yt chanel name
 global.socialm = "https://www.instagram.com/salehofc_" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/Fvx2MTPUUW74Gp5Jc6QESN" //ganti group lu
+global.sgc = "https://chat.whatsapp.com/E6opWnvfpV2L3hzHAvfXza" //ganti group lu
 global.location = "Kalsel" //ganti lokasi lu
 
 //bot bomdy 
@@ -37,7 +37,7 @@ global.websitex1 = "https://youtu.be/XSIWRExz-uA"
 global.botscript = 'https://github.com/BotSaleh' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "noname" //ur sticker watermark author
+global.author = "SalehKirzz" //ur sticker watermark author
 global.wm = "salehkirz" //ur watermark
 
 // Other
