@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -30,8 +30,8 @@ global.premium = ['6281528506878'] //ur premium number
 global.botname = 'KirzBot' //ur bot name
 global.ownername = "SalehKirz"
 global.linkz = "https://youtube.com/@salehdev8956" //your theme url which will be displayed on whatsapp
-global.dana = "6281528506878"
-global.pulsa = "6281528507289"
+global.dana = "6285820377969"
+global.pulsa = "62858203968"
 global.websitex = "https://youtube.com/@salehdev8956" //ur website to be displayed
 global.websitex1 = "https://youtu.be/XSIWRExz-uA"
 global.botscript = 'https://github.com/BotSaleh' //script link
@@ -59,7 +59,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 100
 }
 global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
